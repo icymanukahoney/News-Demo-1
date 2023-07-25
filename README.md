@@ -7,19 +7,28 @@
 ## npm packages
 
 **react-router-dom**
+
 *Provides routing capabilities for React applications, allowing navigation between different components and pages.*
 
+
 **react**
+
 *The core library for building user interfaces in React applications. React allows developers to create reusable UI components and manage the state of these components efficiently.*
 
+
 **react-bootstrap-icons**
+
 *This package provides a collection of Bootstrap icons as React components.
 Imported icons, like List and X, are used in our  app to display visual elements such as close-button and icons.*
 
+
 **react-loader-spinner**
+
 *This package is used to show a loading spinner while waiting for data to be fetched from the server or during operations.*
 
+
 **axios**
+
 *It is used to send HTTP requests to fetch data from the server, for example, news articles, to display on the app.*
 
 ![Screenshot of a Funny Pictures Coding Jokes.](https://cdn.quotesgram.com/img/58/53/1336534689-Programmers-Funny-Pictures-Coding-Jokes.jpg)
